@@ -2,6 +2,7 @@
 # Simulated by Timo Roettger
 # Part 00: Install packages needed for analysis
 # Date: 12/18/2018
+# timo.b.roettger@gmail.com
 
 # install and load in packages
 ## define package list

@@ -4,7 +4,7 @@
 # Date: 12/18/2018
 
 # set working directory
-setwd("../data/") 
+setwd("../derived_data/") 
 
 # extract session info and store as .txt file
 writeLines(capture.output(sessionInfo()), "sessionInfo.txt")
